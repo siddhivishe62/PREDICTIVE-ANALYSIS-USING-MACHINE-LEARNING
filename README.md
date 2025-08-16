@@ -1,5 +1,16 @@
  🚢 Task 2: Titanic Survival Prediction Using Machine Learning
 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: SIDDHI RAMESH VISHE
+
+*INTERN ID*: CT08DH665
+
+*DOMAIN*: DATA ANALYTICS
+
+*DURATION*: 8 Weeks
+
+*MENTOR* : NEELA SANTOSH
 🎯Objective:
 Analyze thebTitanic dataset to build and compare machine learning models for predicting passenger survival.
 📚Tools & Technologies
