@@ -11,6 +11,7 @@
 *DURATION*: 8 Weeks
 
 *MENTOR* : NEELA SANTOSH
+
 🎯Objective:
 Analyze thebTitanic dataset to build and compare machine learning models for predicting passenger survival.
 📚Tools & Technologies
